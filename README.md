@@ -28,7 +28,7 @@ Sebelum membuat dashboard, kita perlu memastikan bahwa data yang digunakan sudah
 
 1. Buka **Power BI Desktop**.
 2. Pilih **Get data → Excel workbook**.
-3. Cari dan pilih file `Operasional_Logistik.xlsx`.
+3. Cari dan pilih file `Operasional_Logistik`.
 4. Pada jendela Navigator, pilih sheet **Data Logistik**.
 5. Klik **Transform Data** untuk membuka Power Query Editor.
 
